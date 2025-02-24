@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Harsh! 
+--------------------------
+🚀 Aspiring Data Scientist | AI Enthusiast | Passionate About Data & Machine Learning  
 
-<!--
-**hsrahh/hsrahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love exploring data, building AI models, and solving real-world problems with machine learning. My projects include:  
+- 🛡️ **Customer Churn Prediction** – Identifying fraudulent transactions using ML  
+- 🤖 **Chatbot Development** – Creating AI-powered conversational agents  
+- 📊 **Exploratory Data Analysis (EDA)** – Uncovering insights from data  
 
-Here are some ideas to get you started:
+💡 Love learning, experimenting, and growing in the world of data science and AI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+----
+
+
