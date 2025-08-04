@@ -26,9 +26,6 @@ My journey blends **data science, AI, and web development**, with hands-on exper
 <a href="https://github.com/hsrahh/GP-360">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsrahh&repo=GP-360&theme=tokyonight" />
 </a>
-<a href="https://github.com/hsrahh/APTA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsrahh&repo=APTA&theme=tokyonight" />
-</a>
 
 
 
